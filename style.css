@@ -1,0 +1,14 @@
+
+
+h2{
+    border: 2px dotted palevioletred;
+    border-radius: 20px;
+text-align:center;
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 20em;
+    font-size: 36px;
+    height: 16em;
+    background-image: url('https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/9f6d5579-3154-4089-bd9e-a2380f672c18.jpg');
+
+}
